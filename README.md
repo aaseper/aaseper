@@ -4,9 +4,6 @@
 	<a href="https://linkedin.com/in/aaseper" target="_blank">
 		<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 	</a>
-	<a href="http://aaseper.dev" target="_blank">
-		<img src=https://img.shields.io/website?url=http%3A%2F%2Faaseper.dev alt=portfolio style="margin-bottom: 5px;" />
-	</a>
 </div>  
 
 ### Nice to meet you!
@@ -19,7 +16,7 @@ Engineering arises from engine. This profession demands constant improvement, an
 
 - 🌱 I’m currently learning GitHub Actions, AWS and Node.js
 
-- ⚡ Fun fact: I'm an open source freedom fighter, a lifelong learner and a productivity geek.
+- ⚡ Fun fact: I'm an open source freedom fighter, a lifelong learner and a productivity geek
 
 <br/>
 
