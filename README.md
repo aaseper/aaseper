@@ -12,9 +12,9 @@ I'm a highly skilled Computer Engineer and Videogame Developer with a focus on b
 
 Engineering arises from engine. This profession demands constant improvement, and I thrive on finding creative solutions to complex problems.  
 
-- 🔭 I’m currently working on [my portfolio](http://aaseper.dev)
+- 🔭 I’m currently working on [my portfolio](https://aaseper.dev)
 
-- 🌱 I’m currently learning GitHub Actions and Node.js
+- 🌱 I’m currently learning Next.js
 
 - ⚡ Fun fact: I'm an open source freedom fighter, a lifelong learner and a productivity geek
 
